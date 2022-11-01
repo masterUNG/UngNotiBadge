@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272980221079",
+    "project_id": "ungnotibadges",
+    "storage_bucket": "ungnotibadges.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272980221079:android:507e1e165e0b72a68f5dd2",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungnotibadges"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272980221079-ru5v3lq3on3dk4l47e52urikeklqg1q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-yG5EitBgKYC-cEUyoFysx_2GtA8vc7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272980221079-ru5v3lq3on3dk4l47e52urikeklqg1q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
